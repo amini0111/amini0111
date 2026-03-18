@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amini0111
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning Java, C++, SQL, C, Assembly.
-- 📫 How to reach me ...
 
 
 <!---
